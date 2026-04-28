@@ -5,26 +5,4 @@
 #profile-web-page-url: https://lolvpn.vercel.app/
 #announce:base64:7aC97bSl0JfQtdGC0JLQn9CdINCR0YvRgdGC0YDRi9C5LNC90LDQtNC10LbQvdGL0Lkg0LLQv9C97aC97bSlCu2gve24stCV0YHQu9C4INGDINGB0LXRgNCy0LXRgNCwINGB0YLQvtC40YIg4pqhLdCR0YvRgdGC0YDRi9C57aC97biyCu2gve26gExURS3QntCx0YXQvtC0INCR0LXQu9GL0YUg0YHQv9C40YHQutC+0LLtoL3tuoAK4pyJ77iP0J/QvtC00L/QuNGB0LrQsCDQstGL0LTQsNC10YLRgdGPINGC0L7Qu9GM0LrQviDQv9C+INGB0L7Qs9C70LDRiNC10L3QuNGOINGB0L7Qt9C00LDRgtC10LvRjyHinInvuI8K4p2k77iP0KEg0YPQstCw0LbQtdC90LjQtdC8IFpfVlBO4p2k77iP
 
-vless://f8c5b018-f51a-4137-be8a-50a451630589@usa28.tcpnet.fun:7443?encryption=none&security=reality&sni=usa28.tcpnet.fun&fp=firefox&pbk=Gnw_P9g5I5CB_B1lyNla2n3DY3RzIz826DSWIK_bkDw&sid=8a459843&type=grpc&serviceName=grpc#us LTE|США|VPN|⚡
-
-vless://ddcac6f4-e994-4b74-86e2-6723c36e6c9f@most-usa2.harknmav.fun:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=eh.vk.com&fp=chrome&pbk=pf1yJnXtDLvBO9HmmB3tKE-eK8mwmhcFezYlzubLzT4&sid=bd3c4c10ca44241a&type=tcp#us LTE|США|BS|⚡
-
-vless://ddcac6f4-e994-4b74-86e2-6723c36e6c9f@most-pl.harknmav.fun:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=chrome&pbk=AmcTYjbCAn33BFmg55kFKIIbNRBmQWan9RDl8lZuHgo&sid=bd3c2c10ca44261a&type=tcp#🇵🇱 LTE|Польша|⚡
-
-vless://ddcac6f4-e994-4b74-86e2-6723c36e6c9f@ya1.harknmav.fun:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=chrome&pbk=bzX8l1h-ze1eML9stiVhe0DsotjtW4WOkjkk4eri9BM&sid=dfdbaa7f996dd0e9&type=tcp#🇷🇺 LTE|Россия| 1⚡
-
-vless://ddcac6f4-e994-4b74-86e2-6723c36e6c9f@ya2.harknmav.fun:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=chrome&pbk=bzX8l1h-ze1eML9stiVhe0DsotjtW4WOkjkk4eri9BM&sid=dfdbaa7f996dd0e9&type=tcp#🇷🇺 LTE|Россия| 2⚡
-
-vless://ddcac6f4-e994-4b74-86e2-6723c36e6c9f@ya3.harknmav.fun:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=chrome&pbk=bzX8l1h-ze1eML9stiVhe0DsotjtW4WOkjkk4eri9BM&sid=dfdbaa7f996dd0e9&type=tcp#🇷🇺 LTE|Россия| 3⚡
-
-vless://ddcac6f4-e994-4b74-86e2-6723c36e6c9f@ya4.harknmav.fun:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=chrome&pbk=bzX8l1h-ze1eML9stiVhe0DsotjtW4WOkjkk4eri9BM&sid=dfdbaa7f996dd0e9&type=tcp#🇷🇺 LTE|Россия| 4⚡
-
-vless://ddcac6f4-e994-4b74-86e2-6723c36e6c9f@all95.harknmav.fun:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=firefox&pbk=sMMDn89-fJAD7VgeTJbdQTmyyUoyRucoMLMvVMm8hAM&sid=cfdbaa7f996dd0e9&type=tcp#🇷🇺 LTE|Россия| 5⚡
-
-vless://ddcac6f4-e994-4b74-86e2-6723c36e6c9f@all95-2.harknmav.fun:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=chrome&pbk=sMMDn89-fJAD7VgeTJbdQTmyyUoyRucoMLMvVMm8hAM&sid=cfdbaa7f996dd0e9&type=tcp#🇷🇺 LTE|Россия| 6⚡
-
-vless://ddcac6f4-e994-4b74-86e2-6723c36e6c9f@all146.harknmav.fun:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=chrome&pbk=sMMDn89-fJAD7VgeTJbdQTmyyUoyRucoMLMvVMm8hAM&sid=cfdbaa7f996dd0e9&type=tcp#🇷🇺 LTE|Россия| 7⚡
-
-vless://ddcac6f4-e994-4b74-86e2-6723c36e6c9f@most-cloud-gaming.harknmav.fun:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=firefox&pbk=ZJcIRk3tkkvpe-n4Zzz7938AQG4FmBSzN9gwXcJ8mg4&sid=4a752b0d4d15e0f7&type=tcp#ru LTE|Игровой|PUBG⚡
-
-vless://ddcac6f4-e994-4b74-86e2-6723c36e6c9f@most-kl.harknmav.fun:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=chrome&pbk=nPcXUDCqEWg5qfSXaSVa_8nuszqZPX3xuVz80HhUgQo&sid=4e732b0d4d15e0f9&type=tcp#🇷🇺 LTE | Игровой⚡
+vless://f8c5b018-f51a-4137-be8a-50a451630589@uwdwdwwdencryption=none&security=reality&sni=usa28.tcpnet.fun&fp=firefox&pbk=Gnw_P9g5I5CB_B1lyNla2n3DY3RzIz826DSWIK_bkDw&sid=8a459843&type=grpc&serviceName=grpc#us LTE|США|VPN|⚡
